@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300">
+  <!-- Background rectangle -->
+  <rect width="500" height="300" fill="#ffffff" rx="20" ry="20"/>
+  
+  <!-- Decorative elements -->
+  <rect x="20" y="20" width="460" height="260" fill="#f8f8f8" rx="15" ry="15" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Main text -->
+  <text x="250" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#3a7bd5">SEPOKATSTORE</text>
+  
+  <!-- Subtitle -->
+  <text x="250" y="170" font-family="Arial, sans-serif" font-size="36" font-weight="bold" font-style="italic" text-anchor="middle" fill="#00d2ff">IMALS</text>
+  
+  <!-- Decorative underline -->
+  <path d="M100 180 L400 180" stroke="#3a7bd5" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Shopping bag icon -->
+  <path d="M160 220 L180 220 L190 200 L130 200 L140 220 Z" fill="none" stroke="#3a7bd5" stroke-width="2"/>
+  <path d="M140 200 L150 170 L170 170 L180 200" fill="none" stroke="#3a7bd5" stroke-width="2"/>
+  
+  <!-- Hanger icon -->
+  <path d="M340 220 L360 220 L350 200 L330 210 L340 220 Z" fill="none" stroke="#00d2ff" stroke-width="2"/>
+  <path d="M350 200 L350 180" fill="none" stroke="#00d2ff" stroke-width="2"/>
+  <path d="M340 180 L360 180" fill="none" stroke="#00d2ff" stroke-width="2"/>
+</svg>
